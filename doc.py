@@ -15,6 +15,8 @@ for line in lines:
 print count
 print store-1
 print totalcount
+print totalcount
+
 
 
 
